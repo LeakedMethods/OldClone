@@ -31,6 +31,8 @@ git pull
 chmod +x *
 
 python oldv3.py
+
+python oldv4.py
 ```
 ### Features
 
