@@ -7,7 +7,7 @@
 
 <p align="center">
   🇧🇩 Developed by <a href="https://www.facebook.com/shahariarzaman.mahi"><b>Shahariar Zaman</b></a><br>
-  🚀 Powered by <b>TEAM CYBER MAFIA</b><br>
+  🚀 Powered by <a href="https://www.facebook.com/share/1DqJrZ7MsT/"><b>TEAM CYBER MAFIA</b><br>
   📆 Year: 2025
 </p>
 
