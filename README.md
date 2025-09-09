@@ -6,7 +6,7 @@
 <h1 align="center"> FB OLD CLONING TOOL</h1>
 
 <p align="center">
-  🇧🇩 Developed by <a href="https://www.facebook.com/shahariarzaman.mahi"><b>Shahariar Zaman Mahi</b></a><br>
+  🇧🇩 Developed by <a href="https://www.facebook.com/shahariarzaman.mahi"><b>Shahariar Zaman</b></a><br>
   🚀 Powered by <b>TEAM CYBER MAFIA</b><br>
   📆 Year: 2025
 </p>
