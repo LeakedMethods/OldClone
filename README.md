@@ -36,7 +36,7 @@ python oldv4.py
 ```
 ### Features
 
-<img src="https://github.com/S4M33R/CLONE/blob/main/Picsart_25-09-04_13-51-03-682.jpg" width="400"/>
+<img src="https://github.com/S4M33R/CLONE/blob/main/Picsart_25-09-04_13-51-03-682.jpg](https://github.com/LeakedMethods/OldClone/blob/main/Screenshot_20250909_075938_Termux.png" width="400"/>
 
 - If You Don't Understand Something, Contact Me On Telegram :)) 😎
 
