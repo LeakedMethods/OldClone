@@ -19,7 +19,7 @@ pkg update -y && pkg upgrade -y
 pkg install python -y
 pkg install git -y
 pkg install toilet -y
-pip install rich requests mechanize lolcat bs4 futures flask fake_useragent faker httpx httplib2 pycurl
+pip install rich requests mechanize lolcat bs4 futures flask fake_useragent faker httpx httplib2 pycurl speedtest
 ````
 
 ---
@@ -31,7 +31,7 @@ git clone https://github.com/LeakedMethods/OldClone.git
 cd OldClone
 git pull
 chmod +x *
-python oldv3.py
+python oldv5.py
 ```
 
 ---
@@ -39,7 +39,7 @@ python oldv3.py
 ## ✨ Features
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LeakedMethods/OldClone/refs/heads/main/InShot_20250909_094437440.jpg" width="400"/>
+  <img src="https://raw.githubusercontent.com/LeakedMethods/OldClone/refs/heads/main/InShot_20251004_164445478.jpg" width="400"/>
 </p>
 
 ---
